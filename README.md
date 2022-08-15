@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning R, Python and Javascript
 - 💞️ I’m looking to collaborate on software development later on
-- 📫 How to reach me: dammydanie1l@gmail.com
+- 📫 How to reach me: dammydaniel1@gmail.com
 
 <!---
 Dammydaniel1/Dammydaniel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
